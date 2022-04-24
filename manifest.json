@@ -1,0 +1,13 @@
+{
+	"short_name": "Portfolio",
+
+
+	"start_url": "/index.html",
+	"background_color": "#eee",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#eee",
+	"description": "Google themed web developer portfolio"
+
+
+}
