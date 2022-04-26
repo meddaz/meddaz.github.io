@@ -22,7 +22,7 @@
   
   ],
   
-  "main":"public/index.html",
+  "main":"src/index.js",
   "dependencies": {
   
     
