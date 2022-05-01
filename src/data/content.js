@@ -244,7 +244,13 @@ export const Content = [
     excerpt: `Change the background color of the page in real time with the color picker `,
   },
 
-
+   {
+      category: "works",
+      link: "https://github.com/meddaz/optionpicker",
+      name: "Option Picker",
+      excerpt: `Put a few options in the text box (separated by commas), press go, and get help choosing.`,
+  
+    },
   
 
  
