@@ -11,6 +11,12 @@ export const Content = [
     name: "Skills",
     excerpt: `HTML, CSS, JavaScript, and jQuery.`
   },
+    {
+    category: "about",
+    link: `${window.location.origin}/about#fiverr`,
+    name: "Fiverr",
+    excerpt: `Check out my Fiverr profile!.`
+  },
   {
     category: "works",
     link: "https://github.com/meddaz/nftpreviewcard",
